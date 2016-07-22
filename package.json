@@ -1,0 +1,18 @@
+{
+  "name": "example-backend-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.13.1",
+    "sqlite3": "^3.1.4",
+    "sworm": "^2.11.0",
+    "asciitable": "0.0.7",
+    "co": "^4.6.0",
+    "faker": "^3.1.0"
+  }
+}
